@@ -1,0 +1,19 @@
+{
+  "name": "owasp-security-skill",
+  "displayName": "OWASP Security Skill",
+  "version": "1.0.0",
+  "description": "Defensive security analysis and code auditing according to OWASP Top 10 (Web), OWASP API Security Top 10, OWASP Mobile Top 10, and OWASP ASVS standards.",
+  "author": {
+    "name": "Engineering & Security Team"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "security",
+    "owasp",
+    "sast",
+    "audit",
+    "vulnerabilities",
+    "asvs",
+    "antigravity-skill"
+  ]
+}
